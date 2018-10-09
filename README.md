@@ -1,7 +1,7 @@
 # aws-support-bot
 
 ## Skill Usage
-> "Alexa, .."
+> "Alexa, aws support case"
 
 > "..."
 
