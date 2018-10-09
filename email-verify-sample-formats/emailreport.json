@@ -1,0 +1,11 @@
+{
+    "fromEmail": "gmridula@amazon.com",
+    "toEmail": [
+        {
+            "email": "gmridula@amazon.com"
+        },
+        {
+            "email": "grandhi.mridula@gmail.com"
+        }
+    ]
+}
